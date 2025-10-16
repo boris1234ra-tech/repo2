@@ -1,4 +1,6 @@
  
+ import java.util.Date;
+
 public class Archivo2{
 
     private int id;
