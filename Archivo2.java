@@ -3,6 +3,7 @@ public class Archivo2{
 
     private int id;
     private String mensaje;
+    private Date fecha;
 
 
     public Archivo2(int ida,String mensajea){
