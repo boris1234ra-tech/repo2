@@ -22,6 +22,10 @@ public class Archivo2{
 
         return mensaje;
     }
+
+    public Date getDate(){
+        return fecha;
+    }
     
     
 
